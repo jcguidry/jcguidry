@@ -4,13 +4,13 @@
 - 🔬 I'm a Data Scientist with a passion for learning and building solutions with real-world data.
 - ⚡ I've worked on large-scale deep learning models that generate real-time predictions for millions of customers around the world.
 - 🔮 As a consultant, I've been exposed to a variety of machine learning use cases and techniques.
-- 🔭 I'm interested in:
-  - streamlining the data science lifecycle and building end-to-end projects that are easy to use and maintain.
-  - simplifying development of near-real-time analytics
+- 🔭 Topics I'm interested in:
+  - streamlining the data science lifecycle, building end-to-end projects that are easy to maintain.
+  - simplifying development of near-real-time analytics, transactional data-lakes
+  - neural network architectures, multi-input/multi-output models
+  - large language models, retrieval-augmented generation, prompt engineering
   - open source data processing and storage frameworks
-  - identifying unforseen applications of generative models
-
-
+  - python micro web frameworks
 
 ### Connect with me:
 
@@ -36,8 +36,6 @@
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
-
-
 
 [twitter]: https://twitter.com/collinguidry
 [mail]: mailto:c.guidry97@gmail.com
