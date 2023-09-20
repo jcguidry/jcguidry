@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 💬 My name is Collin Guidry.
-- 🔬 I'm a Data Scientist with a passion for learning and building solutions with real-world data.
+- 🛠️ I'm a Data Scientist with a passion for learning and building solutions with real-world data.
 - ⚡ I've worked on large-scale deep learning models that generate real-time predictions for millions of customers around the world.
-- 🔮 As a consultant, I've been exposed to a variety of machine learning use cases and techniques.
+- 🏙️ As a consultant, I've been exposed to a variety of machine learning use cases and techniques.
 - 🔭 I'm interested in
   - streamlining the data science lifecycle and building end-to-end projects that are easy to use and maintain.
   - simplifying development of near-real-time analytics
