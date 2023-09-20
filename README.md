@@ -15,8 +15,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="audhiaprilliant | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="./assets/linkedin-icon.png" />][linkedin]
+[<img align="left" alt="audhiaprilliant | Twitter" width="22px" src="./assets/twitter-icon.png" />][twitter]
 
 <br />
 
