@@ -16,7 +16,7 @@
 
 [<img align="left" alt="cg | LinkedIn" width="22px" src="./assets/linkedin-icon.png" />][linkedin]
 [<img align="left" alt="cg | Twitter" width="22px" src="./assets/twitter-icon.png" />][twitter]
-[<img align="left" alt="cg | Twitter" width="22px" src="./assets/mail-icon.png" />][twitter]
+[<img align="left" alt="cg | Email" width="22px" src="./assets/mail-icon.png" />][mail]
 
 <br />
 
@@ -36,5 +36,6 @@
 
 
 [twitter]: https://twitter.com/collinguidry
+[mail]: mailto:c.guidry97@gmail.com
 [linkedin]: https://www.linkedin.com/in/collinguidry/
 [website]: http://www.github.com/jcguidry
