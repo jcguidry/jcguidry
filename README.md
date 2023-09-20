@@ -10,9 +10,6 @@
   - Neural network architectures, multi-input/multi-output models.
   - Large language models, retrieval-augmented generation, prompt engineering.
   - Open source data processing and storage frameworks.
-  - Low-code web frameworks.
-
-<br />
 
 ### Connect with me:
 
