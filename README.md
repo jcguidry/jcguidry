@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 💬 My name is Collin Guidry.
-- 🛠️ I'm a Data Scientist with a passion for learning and building solutions with real-world data.
+- 🔬 I'm a Data Scientist with a passion for learning and building solutions with real-world data.
 - ⚡ I've worked on large-scale deep learning models that generate real-time predictions for millions of customers around the world.
-- 🏙️ As a consultant, I've been exposed to a variety of machine learning use cases and techniques.
+- 🔮 As a consultant, I've been exposed to a variety of machine learning use cases and techniques.
 - 🔭 I'm interested in
   - streamlining the data science lifecycle and building end-to-end projects that are easy to use and maintain.
   - simplifying development of near-real-time analytics
@@ -14,8 +14,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="audhiaprilliant | LinkedIn" width="22px" src="./assets/linkedin-icon.png" />][linkedin]
-[<img align="left" alt="audhiaprilliant | Twitter" width="22px" src="./assets/twitter-icon.png" />][twitter]
+[<img align="left" alt="cg | LinkedIn" width="22px" src="./assets/linkedin-icon.png" />][linkedin]
+[<img align="left" alt="cg | Twitter" width="22px" src="./assets/twitter-icon.png" />][twitter]
+[<img align="left" alt="cg | Twitter" width="22px" src="./assets/mail-icon.png" />][twitter]
 
 <br />
 
@@ -29,7 +30,7 @@
 [<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="GitHub" width="26px" src="./assets/github-icon.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 
