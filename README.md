@@ -4,13 +4,21 @@
 - 🔬 I'm a Data Scientist with a passion for learning and building solutions with real-world data.
 - ⚡ I've worked on large-scale deep learning models that generate real-time predictions for millions of customers around the world.
 - 🔮 As a consultant, I've been exposed to a variety of machine learning use cases and techniques.
-- 🔭 Topics I'm interested in:
-  - Streamlining the data science project lifecycle, building end-to-end projects that are easy to maintain
-  - Simplifying development of near-real-time analytics, using transactional data-lakes
-  - Neural network architectures, multi-input/multi-output models
-  - Large language models, retrieval-augmented generation, prompt engineering
-  - Open source data processing and storage frameworks
-  - Python micro web frameworks
+- 🔭 I'm interested in:
+  - Streamlining the data science project lifecycle, building end-to-end projects that are easy to maintain.
+  - Simplifying development of near-real-time analytics, using transactional data-lakes.
+  - Neural network architectures, multi-input/multi-output models.
+  - Large language models, retrieval-augmented generation, prompt engineering.
+  - Open source data processing and storage frameworks.
+  - Low-code web frameworks.
+
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="cg | LinkedIn" width="22px" src="./assets/linkedin-icon.png" />][linkedin]
+[<img align="left" alt="cg | Twitter" width="22px" src="./assets/twitter-icon.png" />][twitter]
+[<img align="left" alt="cg | Email" width="22px" src="./assets/mail-icon.png" />][mail]
 
 <br />
 
@@ -30,12 +38,6 @@
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
-
-### Connect with me:
-
-[<img align="left" alt="cg | LinkedIn" width="22px" src="./assets/linkedin-icon.png" />][linkedin]
-[<img align="left" alt="cg | Twitter" width="22px" src="./assets/twitter-icon.png" />][twitter]
-[<img align="left" alt="cg | Email" width="22px" src="./assets/mail-icon.png" />][mail]
 
 
 [twitter]: https://twitter.com/collinguidry
