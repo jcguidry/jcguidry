@@ -5,12 +5,12 @@
 - ⚡ I've worked on large-scale deep learning models that generate real-time predictions for millions of customers around the world.
 - 🔮 As a consultant, I've been exposed to a variety of machine learning use cases and techniques.
 - 🔭 Topics I'm interested in:
-  - streamlining the data science project lifecycle, building end-to-end projects that are easy to maintain.
-  - simplifying development of near-real-time analytics, using transactional data-lakes
-  - neural network architectures, multi-input/multi-output models
-  - large language models, retrieval-augmented generation, prompt engineering
-  - open source data processing and storage frameworks
-  - python micro web frameworks
+  - Streamlining the data science project lifecycle, building end-to-end projects that are easy to maintain
+  - Simplifying development of near-real-time analytics, using transactional data-lakes
+  - Neural network architectures, multi-input/multi-output models
+  - Large language models, retrieval-augmented generation, prompt engineering
+  - Open source data processing and storage frameworks
+  - Python micro web frameworks
 
 <br />
 
