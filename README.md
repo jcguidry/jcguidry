@@ -2,7 +2,7 @@
 
 - 💬 My name is Collin Guidry.
 - 🔬 I'm a Data Science and Engineering profesisonal with a passion for learning and building solutions with real-world data.
-- 🛫 My job is to study and measure airline operations, to understand and evaluate flight crew performance.
+- 🛫 My job is to improve airline operational intelligence by analyzing flight crew performance.
 - ⚡ I've worked on large-scale deep learning systems that generate real-time predictions for millions of people per day.
 - 🔮 As a consultant, I've been exposed to a variety of machine learning use cases and techniques.
 - 🔭 I'm interested in:
