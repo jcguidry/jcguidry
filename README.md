@@ -1,14 +1,14 @@
-### Hi there 👋
+### Hi there ✈️
 
 - 💬 My name is Collin Guidry.
-- 🔬 I'm a Data Science and Engineering enthusiast with a passion for learning and building solutions with real-world data.
+- 🔬 I'm a Data Science and Engineering profesisonal with a passion for learning and building solutions with real-world data.
+- 🛫 My job is to study and measure airline operations, to understand and evaluate flight crew performance.
 - ⚡ I've worked on large-scale deep learning systems that generate real-time predictions for millions of people per day.
 - 🔮 As a consultant, I've been exposed to a variety of machine learning use cases and techniques.
 - 🔭 I'm interested in:
+  - Enabling large language models & agents to build data pipelines, analyses, and apps.
   - Streamlining the data science project lifecycle, and building end-to-end projects that are easy to maintain.
   - Simplifying development of near-real-time analytics.
-  - Neural network architectures, multi-input/multi-output models, transformers.
-  - Large language models, retrieval-augmented generation, prompt engineering.
   - Open source data processing and storage frameworks.
 
 ### Connect with me:
